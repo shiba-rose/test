@@ -1,5 +1,5 @@
 a='rere'
-d= 'sfsf'
+d= 'Сосать Америка'
 e=1
 r=43
 print(e+r)
